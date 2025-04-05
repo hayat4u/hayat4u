@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @hayat4u
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on C++
-- 📫 How to reach me 03487135531   on WhatsApp
+- 👋 Hi, I’m Hayat Nabi currently doing my Bachelor's in Software Engineering from Bahria University Islamabad.
+- 👀 I am really interested in Software Development and especially in App Development.
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on Flutter, dart, Java.
+- 📫 You can Connect with me on LinkedIn ( www.linkedin.com/in/hayat-nabi ) .
+
+-  Thanks You .
 
 <!---
 hayat4u/hayat4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
